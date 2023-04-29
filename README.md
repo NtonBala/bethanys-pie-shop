@@ -2,7 +2,7 @@
 
 The project relates to [Bootstrap 5: Fundamentals](https://app.pluralsight.com/library/courses/bootstrap-5-fundamentals/table-of-contents) Pluralsight course by [Gill Cleeren](https://app.pluralsight.com/profile/author/gill-cleeren).
 
-By it's nature the project is a Web shop. It is a responsive, mobile first website built with [Bootstrap 5 CSS framework](https://getbootstrap.com/). It is compatible with all latest stable releases of all major browsers, except Internet Explorer (which is supported by [Bootstrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction/)). Website includes next pages:
+By it's nature the project is a Web shop. It is a responsive, mobile first website built with [Bootstrap 5](https://getbootstrap.com/) CSS framework. It is compatible with all latest stable releases of all major browsers, except Internet Explorer. Website includes next pages:
 
 - Home page
 - Pie list page

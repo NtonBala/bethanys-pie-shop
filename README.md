@@ -11,3 +11,5 @@ By it's nature the project is a Web shop. It is a responsive, mobile first websi
 - Subscription page
 
 Project is deployed to [GitHub Pages](https://ntonbala.github.io/bethanys-pie-shop/applepie). Deploy is automatically run after each commit to `main` branch. For more information read the [GitHub Pages docs](https://docs.github.com/en/pages).
+
+For better development experience the app tools like [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) are used.

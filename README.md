@@ -14,4 +14,4 @@ Project is deployed to [GitHub Pages](https://ntonbala.github.io/bethanys-pie-sh
 
 For better development experience the app tools like [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) are used.
 
-// 3. Demo: Understanding the Bootstrap Grid System
+// 3. Demo: Understanding the Bootstrap Grid System (2:51)

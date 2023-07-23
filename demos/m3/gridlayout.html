@@ -10,7 +10,7 @@
       integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
       crossorigin="anonymous"
     />
-    <link rel="stylesheet" href="css/custom.css" />
+    <link rel="stylesheet" href="../../css/custom.css" />
   </head>
 
   <style>
@@ -30,5 +30,18 @@
     }
   </style>
 
-  <body></body>
+  <body>
+    <!-- Grid example with combination of col, col- and default behavior of elements put inside one row -->
+    <div class="container">
+      <div class="row">
+        <div class="col-5">Element 1 (row 1)</div>
+        <div class="col-5">Element 2 (row 1)</div>
+        <div class="col">Element 3 (row 1)</div>
+        <div class="col">Element 4 (row 2 due to stacking as there's no space left for this element's content)</div>
+        <div class="col">Element 5 (row 2 as after stacking space is distributed according to general rules)</div>
+        <div>Element 6 (default behavior - takes its own row)</div>
+        <div>Element 7 (default behavior - takes its own row)</div>
+      </div>
+    </div>
+  </body>
 </html>
